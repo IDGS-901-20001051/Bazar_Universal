@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone X",
+    "description": "The iPhone X features a stunning edge-to-edge display and advanced Face ID technology",
+    "price": 10200.00,
+    "category": "Tecnología",
+    "brand": "Apple",
+    "rating": 4.5,
+    "stock": 15,
+    "images": [
+      "https://images.unsplash.com/photo-1512054502232-10a0a035d8c1?w=500",
+      "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=500"
+    ],
+    "features": [
+      "5.8-inch Super Retina display",
+      "Face ID technology",
+      "A11 Bionic chip",
+      "Wireless charging",
+      "Water resistant"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S21",
+    "description": "High-performance smartphone with advanced camera system",
+    "price": 8500.00,
+    "category": "Tecnología",
+    "brand": "Samsung",
+    "rating": 4.3,
+    "stock": 20,
+    "images": [
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=500",
+      "https://images.unsplash.com/photo-1580910051074-3eb694886505?w=500"
+    ],
+    "features": [
+      "6.2-inch Dynamic AMOLED display",
+      "Triple camera system",
+      "5G connectivity",
+      "128GB storage",
+      "All-day battery"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro 13\"",
+    "description": "Powerful laptop with M1 chip for professional work",
+    "price": 25000.00,
+    "category": "Tecnología",
+    "brand": "Apple",
+    "rating": 4.8,
+    "stock": 8,
+    "images": [
+      "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=500",
+      "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500"
+    ],
+    "features": [
+      "Apple M1 chip",
+      "13.3-inch Retina display",
+      "16GB unified memory",
+      "512GB SSD storage",
+      "20-hour battery life"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Sony WH-1000XM4",
+    "description": "Wireless Noise Canceling Headphones, 30-hour battery life",
+    "price": 3500.00,
+    "category": "Audio",
+    "brand": "Sony",
+    "rating": 4.6,
+    "stock": 25,
+    "images": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+    ],
+    "features": [
+      "Industry-leading noise canceling",
+      "30-hour battery life",
+      "Touch sensor controls",
+      "Quick attention mode",
+      "Wireless charging"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Nintendo Switch",
+    "description": "Hybrid gaming console for home and portable play",
+    "price": 7200.00,
+    "category": "Gaming",
+    "brand": "Nintendo",
+    "rating": 4.7,
+    "stock": 12,
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500",
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=500"
+    ],
+    "features": [
+      "Hybrid design - TV and handheld",
+      "6.2-inch touchscreen",
+      "Detachable Joy-Con controllers",
+      "Up to 9 hours battery life",
+      "Built-in wireless connectivity"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "PlayStation 5",
+    "description": "Next-generation gaming console with 4K gaming",
+    "price": 12000.00,
+    "category": "Gaming",
+    "brand": "Sony",
+    "rating": 4.9,
+    "stock": 5,
+    "images": [
+      "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500",
+      "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?w=500"
+    ],
+    "features": [
+      "Custom AMD Zen 2 CPU",
+      "4K gaming at 120fps",
+      "3D audio technology",
+      "Ultra-fast SSD",
+      "DualSense wireless controller"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Dell XPS 13",
+    "description": "Ultra-thin laptop with InfinityEdge display",
+    "price": 18500.00,
+    "category": "Tecnología",
+    "brand": "Dell",
+    "rating": 4.4,
+    "stock": 10,
+    "images": [
+      "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500"
+    ],
+    "features": [
+      "13.3-inch InfinityEdge display",
+      "11th Gen Intel Core processors",
+      "16GB LPDDR4x memory",
+      "512GB PCIe SSD",
+      "Premium aluminum construction"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "AirPods Pro",
+    "description": "Active Noise Cancellation wireless earbuds",
+    "price": 2800.00,
+    "category": "Audio",
+    "brand": "Apple",
+    "rating": 4.5,
+    "stock": 30,
+    "images": [
+      "https://images.unsplash.com/photo-1588423771073-b8903fbb85b5?w=500",
+      "https://images.unsplash.com/photo-1606220945770-b5b6c2c2bf65?w=500"
+    ],
+    "features": [
+      "Active Noise Cancellation",
+      "Transparency mode",
+      "Spatial audio",
+      "Sweat and water resistant",
+      "Up to 24 hours battery life"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Gaming Mouse RGB",
+    "description": "High-precision gaming mouse with customizable RGB lighting",
+    "price": 850.00,
+    "category": "Gaming",
+    "brand": "Razer",
+    "rating": 4.2,
+    "stock": 40,
+    "images": [
+      "https://images.unsplash.com/photo-1527814050087-3793815479db?w=500",
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500"
+    ],
+    "features": [
+      "16,000 DPI optical sensor",
+      "11 programmable buttons",
+      "Chroma RGB lighting",
+      "Ergonomic design",
+      "Ultra-fast response time"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Bluetooth Speaker",
+    "description": "Portable wireless speaker with deep bass",
+    "price": 1200.00,
+    "category": "Audio",
+    "brand": "JBL",
+    "rating": 4.1,
+    "stock": 35,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=500"
+    ],
+    "features": [
+      "12 hours playtime",
+      "IPX7 waterproof",
+      "Wireless Bluetooth streaming",
+      "Built-in microphone",
+      "Compact portable design"
+    ]
+  }
+]

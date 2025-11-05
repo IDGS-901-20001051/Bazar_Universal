@@ -1,0 +1,7 @@
+# Variables de entorno para Render.com
+DATABASE_URL=postgresql://username:password@hostname:port/database
+ENVIRONMENT=production
+CORS_ORIGINS=["https://tu-app.netlify.app", "http://localhost:5174"]
+
+# Opcional: para debugging
+DEBUG=False
