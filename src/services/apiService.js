@@ -1,6 +1,6 @@
 // API configuration
 const API_BASE_URL = import.meta.env.PROD 
-  ? 'https://tu-api-render.onrender.com/api/v1'  // 👈 Cambiarás por tu URL real de Render
+  ? 'https://api-bazar-universal-u1nf.onrender.com/api/v1'  // 🎯 Tu API en Render
   : 'http://localhost:8000/api/v1'
 
 // API service functions
