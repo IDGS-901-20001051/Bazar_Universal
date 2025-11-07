@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Custom ignores
+/Api_Bazar_Universal/
+/Aplicacion Examen 2do parcial.pdf
+env-production-example.txt
+NETLIFY_DEPLOY_GUIDE.md
